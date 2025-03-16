@@ -1,4 +1,5 @@
-# taiwan-and-singapore
+# Escaping the Middle-Income Trap: A Comparative Analysis of Taiwan
+and Singapore’s Economic Strategies
 The "middle-income trap" describes a challenge many developing economies face: after
 reaching a certain level of income, growth slows, making it difficult to transition into a
 high-income economy (World Bank, 2024). Countries in this trap often struggle to move beyond
